@@ -42,5 +42,6 @@ Last Access Time<br><br>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
 Add comment by Mamoru Ito<br>
+Add comment by Mamoru Ito at 2<br>
 </body>
 </html>
